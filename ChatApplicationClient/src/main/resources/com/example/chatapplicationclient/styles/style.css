@@ -1,0 +1,10 @@
+.text-flow{
+    -fx-color: rgb(239,242,255);
+    -fx-background-color: rgb(15,125,242);
+    -fx-background-radius: 20px;
+}
+
+.text-flow-silver{
+    -fx-background-color: rgb(233,233,235);
+    -fx-background-radius: 20px;
+}
